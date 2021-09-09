@@ -26,12 +26,11 @@ Si el usuario teclea el número 5, el programa mostrará lo siguiente:
 La suma de la serie es: 35
 ```
 
-Toma en consideración que el programa deberá solicitar un número entero positivo al usuario que deberá enviarse a una función en la cual se realizarán las operaciones que sean necesarias. 
-La función deberá retornar el resultado de la suma que deberás utilizar para desplegar la línea final mostrada en el ejemplo. 
+Toma en consideración que el programa deberá solicitar un número entero positivo al usuario el cual deberá enviarse a una función en donde se realizarán todas las operaciones que sean necesarias. La función deberá retornar la suma de los resultados de cada línea. Este resultado es la suma de la serie, y se deberá mostrar en la línea final del programa como se indica en el ejemplo. 
 
-Si el usuario ingresa un número negativo o cero como entrada, el programa deberá mostrar el mensaje "El número es inválido".
+Si el usuario ingresa un número negativo o cero como entrada, el programa deberá mostrar el mensaje "El número es inválido" y terminar el programa.
 
-IMPORTANTE: Utiliza concatenación de strings (+) para construir strings más grandes que contengan las secuencias y para posteriormente imprimirlas.
+IMPORTANTE: Utiliza concatenación de strings (+) para construir strings más grandes que contengan las secuencias. Estos strings son los que deberán ser desplegados/mostrados.
 
 
 #### Entrada
